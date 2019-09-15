@@ -2,9 +2,7 @@
   "name": "js-tdd-course",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-
-  },
+  "scripts": {},
   "repository": {
     "type": "git",
     "url": "https://github.com/dudubernardino/TDD-JS"
