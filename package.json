@@ -1,0 +1,14 @@
+{
+  "name": "js-tdd-course",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dudubernardino/TDD-JS"
+  },
+  "author": "Eduardo Bernardino <eduardomoura.moura@mail.com>",
+  "license": "MIT"
+}
